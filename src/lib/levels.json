@@ -1,0 +1,8 @@
+[
+  { "id": 1, "jugs": [3, 5], "goal": 4, "optimalMoves": 6, "difficulty": "Easy" },
+  { "id": 2, "jugs": [2, 6], "goal": 4, "optimalMoves": 5, "difficulty": "Easy" },
+  { "id": 3, "jugs": [7, 11], "goal": 6, "optimalMoves": 8, "difficulty": "Medium" },
+  { "id": 4, "jugs": [8, 5], "goal": 3, "optimalMoves": 7, "difficulty": "Medium" },
+  { "id": 5, "jugs": [9, 4], "goal": 7, "optimalMoves": 9, "difficulty": "Hard" },
+  { "id": 6, "jugs": [10, 7], "goal": 2, "optimalMoves": 10, "difficulty": "Hard" }
+] 
